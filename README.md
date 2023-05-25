@@ -1,6 +1,7 @@
 # test_naver_map_01
 
 A new Flutter project.
+We used Flutter v3.7.8
 
 ## Getting Started
 
